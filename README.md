@@ -1,4 +1,7 @@
 rat
 ===
 
-Just an attempt to create another programming language 
+Just an attempt to create another programming language
+
+Program Syntax:
+---------------
